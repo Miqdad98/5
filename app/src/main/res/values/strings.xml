@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="kertas">Kertas</string>
+    <string name="gunting">Gunting</string>
+    <string name="batu">Batu</string>
+    <string name="pemain_1">Pemain 1</string>
+    <string name="pemain_2">Pemain 2</string>
+    <string name="cpu">CPU</string>
+    <string name="refresh">refresh</string>
+    <string name="vs">VS</string>
+    <string name="url_landing_page1">"https://github.com/Miqdad98/gambar/blob/master/landing-page1.png?raw=true"</string>
+    <string name="url_landing_page2">"https://github.com/Miqdad98/gambar/blob/master/landing-page2.png?raw=true"</string>
+    <string name="url_landing_page3">"https://github.com/Miqdad98/gambar/blob/master/landing-page3.png?raw=true"</string>
+    <string name="close">close</string>
+    <string name="pilih_lawanmu">PILIH LAWANMU</string>
+    <string name="pemain_vs_pemain">Pemain vs Pemain</string>
+    <string name="pemain_vs_cpu">Pemain vs CPU</string>
+    <string name="splash">splash</string>
+    <string name="next">next</string>
+    <string name="user">user</string>
+    <string name="hasil_permainan">Hasil Permainan</string>
+    <string name="main_lagi">Main Lagi</string>
+    <string name="kembali_ke_menu">Kembali Ke Menu</string>
+    <string name="miqdad_menang">miqdad menang</string>
+    <string name="lawan_komputer">lawan komputer</string>
+    <string name="tulis_nama_dibawah">tulis nama dibawah</string>
+    <string name="max_7_kata">max 7 kata</string>
+    <string name="main_sama_pemain">main sama pemain</string>
+</resources>
